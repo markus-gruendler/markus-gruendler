@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markus-gruendler
 - 👀 I’m interested in anything ML and Math related
-- 🌱 I’m currently learning analysis, combinatorics and C
+- 🌱 I’m currently learning graph theory, combinatorics and C
 - 📫 How to reach me: mgruendleroutreach@gmail.com
 
 <!---
